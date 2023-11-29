@@ -1,4 +1,4 @@
-sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
+sudo apt install -y git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
 mkdir xmrig
 cd xmrig
 git clone https://github.com/xmrig/xmrig
